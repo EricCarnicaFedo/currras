@@ -1,0 +1,16 @@
+{
+  "name": "LylaPoints",
+  "version": "0.0.1",
+  "description": "Bot de pontos do TCE",
+  "main": "(link unavailable)",
+  "dependencies": {
+    "(link unavailable)": "^2.0.0",
+    "py-cord": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "python (link unavailable)"
+  },
+  "author": "zlx0",
+  "license": "MIT"
+}
